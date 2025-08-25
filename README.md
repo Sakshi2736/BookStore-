@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Online Book Store
 
 An end-to-end **Online Book Store** application built using **React, Tailwind CSS, Vite, Spring Boot, Hibernate, and MySQL**. This full-stack project features **role-based access**, where **Customers** can browse, search, and order books, while **Admins** can manage books, users, and view sales analytics.
@@ -127,3 +128,6 @@ spring.datasource.username=root
 spring.datasource.password=yourpassword
 
 jwt.secret=your_jwt_secret
+=======
+# BookStore-
+>>>>>>> 7a6555625a9370a293f1f1a9c2d39d7402de4c70
