@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📚 Online Book Store
 
 An end-to-end **Online Book Store** application built using **React, Tailwind CSS, Vite, Spring Boot, Hibernate, and MySQL**. This full-stack project features **role-based access**, where **Customers** can browse, search, and order books, while **Admins** can manage books, users, and view sales analytics.
